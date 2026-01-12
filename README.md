@@ -1,0 +1,1 @@
+AI-Compliance Checker automates contract review using LLMs to extract clauses, assess legal and regulatory risks, identify compliance gaps, and evaluate GDPR/HIPAA impact, reducing manual effort while improving accuracy, speed, and confidence across industries.
