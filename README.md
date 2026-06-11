@@ -235,9 +235,7 @@ This project is licensed under the **MIT License**.
 
 - **Charan** – Project Lead & Mentor
 
-- **Student1** – Student Developer  
-- **Student2** – Student Developer  
-- **Student3** – Student Developer   
+- **Student** – Sai Amar Durgesh Kopparapu   
 - Open to community contributions 🚀  
 
 Feel free to fork this repository, raise issues, or submit pull requests.
